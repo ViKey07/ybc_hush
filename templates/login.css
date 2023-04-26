@@ -1,0 +1,4 @@
+form.form-login {
+    display: flex;
+    flex-direction: column;
+}
